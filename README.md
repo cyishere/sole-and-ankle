@@ -1,5 +1,18 @@
 # Sole&Ankle — Module 4 workshop
 
+## Solutions in These Files
+
+- Exercise 1: [`src/components/SuperHeader/SuperHeader.js`](src/components/SuperHeader/SuperHeader.js)
+- Exercise 2: [`src/components/Header/Header.js`](src/components/Header/Header.js)
+- Exercise 3:
+  - [`src/components/ShoeIndex/ShoeIndex.js`](src/components/ShoeIndex/ShoeIndex.js)
+  - [`src/components/Breadcrumbs/Breadcrumbs.js`](src/components/Breadcrumbs/Breadcrumbs.js)
+  - [`src/components/Select/Select.js`](src/components/Select/Select.js)
+- Exercise 3:
+  - [`src/components/ShoeGrid/ShoeGrid.js`](src/components/ShoeGrid/ShoeGrid.js)
+  - [`src/components/ShoeCard/ShoeCard.js`](src/components/ShoeCard/ShoeCard.js)
+  - [`src/components/Flags/Flags.js`](src/components/Flags/Flags.js)
+
 In this workshop, our goal is to finish building an e-commerce store!
 
 The good news is, most of our work is done already. We just need to write some additional CSS to construct the layout; things are a bit messy right now!
